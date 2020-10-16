@@ -26,6 +26,7 @@ public class Test1 {
 ////        System.out.println(list);
 
         System.out.println("ok");
+        System.out.println("ok");
     }
 
     @Test
